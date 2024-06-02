@@ -1,6 +1,6 @@
 import Results from "@/components/results";
 import React, { Suspense } from "react";
-import { Loading } from "./loading.jsx";
+import Loading from "./loading.jsx";
 
 const API_KEY = process.env.API_KEY;
 
